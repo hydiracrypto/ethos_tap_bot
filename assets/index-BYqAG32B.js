@@ -15981,9 +15981,9 @@ const ND = ()=>{
 }
 ;
 var jt = {
-    VITE_API_URL: "http://ethos-tap.my.id/api",
+    VITE_API_URL: "https://your-url.com/api",
     VITE_GA_ID: "G-BCZKLGL3D0",
-    VITE_BOT_NAME: "ethos_tap_bot",
+    VITE_BOT_NAME: "your_tap_bot",
     BASE_URL: "/",
     MODE: "production",
     DEV: !1,
@@ -40955,5 +40955,3 @@ kz.render(x.jsx(ce.StrictMode, {
         })
     })
 }));
-
-
